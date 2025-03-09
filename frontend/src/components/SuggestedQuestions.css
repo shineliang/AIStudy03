@@ -1,0 +1,22 @@
+.suggested-questions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.question-button {
+  padding: 0.5rem 1rem;
+  background-color: #f0f7ff;
+  border: 1px solid #d0e3ff;
+  border-radius: 16px;
+  color: #1976d2;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.question-button:hover {
+  background-color: #d0e3ff;
+  transform: translateY(-2px);
+} 
