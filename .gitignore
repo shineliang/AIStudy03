@@ -2,3 +2,4 @@
 /.vscode
 /assistant.db
 /backend/.env
+backend/.env
